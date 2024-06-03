@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+}
+a{
+	border:none;
+	text-decoration:none;
+}
+ul{
+	list-style:none;
+}
+.clear{
+	clear:both;
+}
+#wrap{
+	width:1000px;
+	margin:0 auto;
+}
+.logo{
+	padding:10px 0 0 24px;
+	width:976px;
+	height:54px;
+}
+.logo img{
+	width:114px;
+	height:43px;
+}
+.navs ul{
+	width:1000px;
+	background-color:#1faf67;
+}
+.navs ul li{
+	width:218px;
+	float:left;
+	line-height:74px;
+	color:#ffffff;
+	font-size:28px;
+	font-weight:bold;
+}
+.navs ul li a{
+	display:block;
+	width:218px;
+	height:74px;
+	text-align:center;
+	color:#ffffff;
+}
+.banner{
+	width:1000px;
+}
+.banner img{
+	width:1000px;
+
+}
+.gongsi,.chanpin{
+	width:960px;
+	padding:0 20px;
+}
+.gongsi h3{
+	font-size:24px;
+	line-height:56px;
+	padding:8px 0 0 30px;
+	border-bottom:2px #636060 solid;
+}
+.gongsi p{
+	text-indent:2em;
+	font-size:14px;
+	color:#626060;
+	line-height:22px;
+	padding:11px 24px;
+}
+.gongsi p.fir{
+	padding-top:25px;
+}
+.gongsi p.las{
+	padding-bottom:23px;
+}
+.chanpin p{
+	width:473px;
+	margin-top:63px;
+	height:196px;
+	background-color:#1faf67;
+	float:left;
+	padding:30px 20px 0 20px;
+	font-size:14px;
+	line-height:22px;
+	color:#ffffff;
+}
+.chanpin h3{
+	font-size:24px;
+	line-height:56px;
+	padding-left:30px;
+	margin-bottom:34px;
+	border-bottom:2px #636060 solid;
+}
+.chanpin h3{
+	font-size:24px;
+	line-height:56px;
+	padding-left:30px;
+	margin-bottom:34px;
+	border-bottom:2px #636060 solid;
+}
+.chanpin ul{
+	margin-bottom:50px;
+}
+.chanpin ul li{
+	width:260px;
+	float:left;
+	padding:0 30px;
+}
+.banquan{
+	width:1000px;
+	height:84px;
+	background-color:#626060;
+	font-size:24px;
+	color:#ffffff;
+	text-align:center;
+	line-height:84px;
+}
